@@ -1,6 +1,7 @@
 # Projeto Analise de Dados
 
-Esse é um mini projeto de analise de dados onde eu peguei numa base de dados da minha cidade Penedo Alagoas, dados de quantos especialistas em cada Profissão por exemplo Médicos domésticos, Fonoaudiólogos tinham em cada ano e fiz uma analise de quantos profissionais de cada Área irá ter no ano seguinte, através de contas matemáticas e analises
+Esse é um mini projeto de analise de dados onde eu peguei numa base de dados da minha cidade Penedo Alagoas , dados de quantos especialistas em cada Profissão por exemplo Médicos domésticos, Fonoaudiólogos tinham em cada ano e fiz uma analise de quantos profissionais de cada Área irá ter no ano seguinte, através de contas matemáticas e analises dos anos de 2015, 2016 e 2017.
+A analise foi feita e o resultado Gerou os anos de 2018 e 2019.
 
 Foi usado o Seguinte passo a passo no calculo de Variação:
 
