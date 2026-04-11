@@ -17,3 +17,8 @@ Valor 2017 − Valor 2016
 Valor 2017 + Média = Estimativa 2018
 
 
+Considerações Finais e Proposito da Analise:
+
+Essa Analise foi feita no intuito de promover e analisar as áreas que estariam em alta e queda de mercado na cidade de Penedo Alagoas nos anos de 2018 e 2019, com isso, melhorando a visão de mercado e a distribuição de médicos nos postos de saúde e UPA's da cidade por exemplo, isso tudo promove até pessoas que veem na área da saúde uma futura profissão, os ajudando a escolher um curso que esteja em carência no mercado local, fazendo-se desse dado uma ajuda na hora de escolher sua profissão dentro da Área da Saúde.
+
+
